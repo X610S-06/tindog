@@ -1,2 +1,2 @@
-# tindog
-Tinder for Dogs.
+# Tindog
+Tinder for Dogs using basic HTML and CSS.
