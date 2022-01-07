@@ -3,7 +3,7 @@ Tinder for dogs using basic HTML, CSS and Bootstrap.
 
 This website is mainly built as a part of self-learning.
 
-# Clone and Use :
+# Clone and Use 
 
   Open Terminal 
   
