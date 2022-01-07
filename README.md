@@ -9,11 +9,11 @@ This website is mainly built as a part of self-learning.
   
     git clone 'https - copied url'
 
-  Change the directory  
+  Change directory  
 
     cd 'directory name'
 
-  Open all the files on VS code  
+  Open all files on VS code  
 
     code .
     
